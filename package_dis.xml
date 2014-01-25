@@ -1,0 +1,164 @@
+<overviews>
+	<packages>
+		<package name="com.D5Power.basic">
+			<shortDescription>
+			Basic package
+			</shortDescription>
+			<description>
+				
+			</description>
+		</package>
+		<package name="com.D5Power.Controler">
+			<shortDescription>
+			Controller of gameObjects
+			</shortDescription>
+			<description>
+				
+			</description>
+		</package>
+		<package name="com.D5Power.core">
+			<shortDescription>
+			Core code.exp. A*
+			</shortDescription>
+			<description>
+				
+			</description>
+		</package>
+		<package name="com.D5Power.display">
+			<shortDescription>
+			Some object for display
+			</shortDescription>
+			<description>
+				
+			</description>
+		</package>
+		<package name="com.D5Power.loader">
+			<shortDescription>
+			Loader
+			</shortDescription>
+			<description>
+				
+			</description>
+		</package>
+		<package name="com.D5Power.Lua">
+			<shortDescription>
+			Lua script controller
+			</shortDescription>
+			<description>
+				
+			</description>
+		</package>
+		<package name="com.D5Power.map">
+			<shortDescription>
+			Map of world
+			</shortDescription>
+			<description>
+				
+			</description>
+		</package>
+		<package name="com.D5Power.ns">
+			<shortDescription>
+			Namespace
+			</shortDescription>
+			<description>
+				
+			</description>
+		</package>
+		<package name="com.D5Power.Objects">
+			<shortDescription>
+			Game objects
+			</shortDescription>
+			<description>
+				
+			</description>
+		</package>
+		<package name="com.D5Power.Objects.Effects">
+			<shortDescription>
+			Game Effect
+			</shortDescription>
+			<description>
+				
+			</description>
+		</package>		
+		<package name="com.D5Power.Render">
+			<shortDescription>
+			Game Render
+			</shortDescription>
+			<description>
+				
+			</description>
+		</package>
+		<package name="com.D5Power.scene">
+			<shortDescription>
+			Game Scene
+			</shortDescription>
+			<description>
+				
+			</description>
+		</package>
+		<package name="com.D5Power.simulator">
+			<shortDescription>
+			Simulator of system
+			</shortDescription>
+			<description>
+				
+			</description>
+		</package>
+		<package name="com.D5Power.Stuff">
+			<shortDescription>
+			Some other stuff of engine.exp HP Bar,Character Logo
+			</shortDescription>
+			<description>
+				
+			</description>
+		</package>
+		<package name="com.D5Power.utils">
+			<shortDescription>
+			Data Structures
+			</shortDescription>
+			<description>
+				
+			</description>
+		</package>
+		<package name="com.D5Power.graphicsManager">
+			<shortDescription>
+			Graphics Manager
+			</shortDescription>
+			<description>
+				
+			</description>
+		</package>
+		<package name="com.D5Power.mission">
+			<shortDescription>
+			Mission data and manager
+			</shortDescription>
+			<description>
+				
+			</description>
+		</package>
+		<package name="">
+			<shortDescription>
+			Default package
+			</shortDescription>
+			<description>
+				
+			</description>
+		</package>
+		<package name="utils">
+			<shortDescription>
+			Data Structures(No D5Power)
+			</shortDescription>
+			<description>
+				
+			</description>
+		</package>
+		<package name="lib">
+			<shortDescription>
+			lib code(No D5Power)
+			</shortDescription>
+			<description>
+				
+			</description>
+		</package>
+	</packages>
+</overviews>
